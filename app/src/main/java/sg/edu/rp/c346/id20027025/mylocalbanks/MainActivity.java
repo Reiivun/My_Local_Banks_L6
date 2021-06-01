@@ -102,20 +102,20 @@ public class MainActivity extends AppCompatActivity {
                 dbs.setTextColor(Color.RED);
             }
             if (bankType.equalsIgnoreCase("OCBC")) {
-                dbs.setTextColor(Color.RED);
+                ocbc.setTextColor(Color.RED);
             }
             if (bankType.equalsIgnoreCase("UOB")) {
-                dbs.setTextColor(Color.RED);
+                uob.setTextColor(Color.RED);
             }
         } else if (id == R.id.toggleUnFav) {
             if (bankType.equalsIgnoreCase("DBS")) {
                 dbs.setTextColor(Color.WHITE);
             }
             if (bankType.equalsIgnoreCase("OCBC")) {
-                dbs.setTextColor(Color.WHITE);
+                ocbc.setTextColor(Color.WHITE);
             }
             if (bankType.equalsIgnoreCase("UOB")) {
-                dbs.setTextColor(Color.WHITE);
+                uob.setTextColor(Color.WHITE);
             }
         }
         return super.onContextItemSelected(item);
