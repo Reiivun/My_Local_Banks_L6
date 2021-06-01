@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/website"
+        android:orderInCategory="100"
+        android:title="@string/website_english"
+        />
+    <item
+        android:id="@+id/bankCall"
+        android:orderInCategory="100"
+        android:title="@string/contact_the_bank_english"
+        />
+    <item
+        android:id="@+id/toggleFav"
+        android:orderInCategory="100"
+        android:title="@string/toggle_favourite"
+        />
+    <item
+        android:id="@+id/toggleUnFav"
+        android:orderInCategory="100"
+        android:title="@string/toggle_unfavourite"
+        />
+
+
+</menu>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Local Banks</string>
+    <string name="title_english">Hold on the buttons to access Website/ Call.</string>
+    <string name="title_chinese">按住按钮可访问“网站/呼叫”。</string>
+    <string name="dbs_english">DBS</string>
+    <string name="dbs_chinese">星展银行</string>
+    <string name="ocbc_english">OCBC</string>
+    <string name="ocbc_chinese">华侨银行</string>
+    <string name="uob_english">UOB</string>
+    <string name="uob_chinese">大华银行</string>
+    <string name="chinese">中文</string>
+    <string name="english">English</string>
+    <string name="website_english">Website</string>
+    <string name="contact_the_bank_english">Contact the bank</string>
+    <string name="toggle_favourite">Toggle Favourite</string>
+    <string name="toggle_unfavourite">Toggle Unfavourite</string>
+    <string name="info_english">Red text: Favourited. Normal: Not Favourited.</string>
+    <string name="info_chinese">红色文字：收藏。正常：不受欢迎。</string>
+</resources>
